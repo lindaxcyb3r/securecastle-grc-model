@@ -24,7 +24,7 @@ This project is intended as a portfolio and educational resource demonstrating r
 
 ## Live Demo
 
-The following public views are available for interactive browsing — no login required.
+The following public views are available for interactive browsing. No login required.
 
 | Table | View | Link |
 |---|---|---|
@@ -147,20 +147,12 @@ flowchart TD
 
 ## Documentation
 
-### Available
-
 | Document | Description | Classification |
 |---|---|---|
-| [GRC Data Reference Manual](docs/grc_data_reference_manual.xlsx) | Full data dictionary including table definitions, field types, allowed values, linked record references, and document control | Internal |
-| [Litigation Hold Notice Template](docs/grc_data_reference_manual.docx) | Attorney-client privileged template notice for litigation hold events | Confidential |
-
-### In Progress
-
-| Document | Description | Classification |
-|---|---|---|
-| System Inventory | Detailed inventory of all 19 organizational systems with linked data assets and custodians | Internal |
+| Data Dictionary | Full data dictionary including table definitions, field types, allowed values, linked record references, and document control | Internal |
+| Litigation Hold Notice Template | Fillable template for litigation hold events | Confidential |
 | Data Retention Policy | Retention rules, regulatory basis, and disposal procedures for all 7 data types | Confidential |
-| Litigation Response Team Manual | Internal procedures for responding to litigation holds | Confidential |
+| Litigation Response Manual | Internal procedures for responding to known or anticipated litigation | Confidential |
 
 ---
 
@@ -172,11 +164,6 @@ Secure Castle, Co. is a fictional 50-person company with the following departmen
 
 Legal holds and compliance obligations are managed by the **Governance Department**, with outside legal counsel engaged for litigation matters. IT manages technical custodianship of data assets; Security manages security-domain assets.
 
----
-
-## Project Status
-
-Active — data model is fully built and populated with fictional sample data across all seven tables. Documentation suite is in progress.
 
 ---
 
